@@ -5,9 +5,9 @@ Esta é a terceira atividade do curso Dev Full Stack, oferecido pela +praTI e Co
 
 ## Links
 
-Link para repositório no GitHub: https://github.com/ayuizu/maispraTI_fullstack_LP03.git
+Link para repositório no GitHub: https://github.com/ayuizu/maispraTI_FullStack_LP03.git
 
-Link para GitHub Pages: https://ayuizu.github.io/maispraTI_fullstack_LP03/
+Link para GitHub Pages: https://ayuizu.github.io/maispraTI_FullStack_LP03/
 
 ## Fontes
 
