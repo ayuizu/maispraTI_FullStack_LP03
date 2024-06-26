@@ -95,7 +95,7 @@ main{
 /* BANNER */
 
 #banner {
-    background-image: url(../assets/images/banner2.JPEG);
+    background-image: url(.../assets/images/banner2.JPEG);
     position: absolute;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -219,7 +219,7 @@ table p{
 
 
 #banner-sec {
-    background-image: url(/assets/images/banner-sec.JPEG);
+    background-image: url(.../assets/images/banner-sec.JPEG);
     position: absolute;
     background-repeat: no-repeat;
     background-attachment: fixed;
