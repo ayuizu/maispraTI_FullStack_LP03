@@ -93,7 +93,8 @@ main{
 /* BANNER */
 
 #banner {
-    background-image: url(../images/banner2.JPEG);
+    background-image: url(../assets/images/banner2.JPEG);
+    background-color: var(--quartiary-color);
     position: absolute;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -217,7 +218,8 @@ table p{
 
 
 #banner-sec {
-    background-image: url(../images/banner-sec.JPEG);
+    background-image: url(../assets/images/banner-sec.JPEG);
+    background-color: var(--quartiary-color);
     position: absolute;
     background-repeat: no-repeat;
     background-attachment: fixed;
