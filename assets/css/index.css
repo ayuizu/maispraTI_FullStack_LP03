@@ -18,6 +18,8 @@
     padding: 0;
     top: 0;
     left: 0;
+    scroll-behavior: smooth;
+    
 }
 :root{
     --primary-color:#F20519;
@@ -30,12 +32,8 @@
 }
 
 body{
-    /* background: url(/assets/images/pexels-ryutaro-5745979.jpg) no-repeat fixed; */
-    /* background-position: 20%;
-    background-size:100%; */
     height: 100%;
     width: 100vw;
-       
 }
 
 
@@ -95,7 +93,7 @@ main{
 /* BANNER */
 
 #banner {
-    background-image: url(../assets/images/banner2.JPEG);
+    background-image: url(../images/banner2.JPEG);
     position: absolute;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -219,7 +217,7 @@ table p{
 
 
 #banner-sec {
-    background-image: url(../assets/images/banner-sec.JPEG);
+    background-image: url(../images/banner-sec.JPEG);
     position: absolute;
     background-repeat: no-repeat;
     background-attachment: fixed;
