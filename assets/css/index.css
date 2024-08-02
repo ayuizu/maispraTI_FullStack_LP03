@@ -223,7 +223,7 @@ table p{
     position: absolute;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center;
+    background-position: top center;
 
     top: 0px;
     left: 0%;

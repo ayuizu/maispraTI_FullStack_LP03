@@ -42,3 +42,6 @@ Os ícones foram obtidos através do Font Awesome.
 
 - Foto de <a href="https://unsplash.com/pt-br/@themangomonster?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Daniel Téllez Girón</a> na <a href="https://unsplash.com/pt-br/fotografias/um-pedaco-de-sushi-sentado-em-cima-de-uma-tabua-de-corte-de-madeira-ZOINPNtpvGI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
+
+## Atualizações após entrega
+v04: ajuste na posição da imagem do banner das páginas secundárias.
